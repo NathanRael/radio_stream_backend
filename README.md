@@ -1,3 +1,3 @@
-#Radio stream backend
-A Simple REST API for a Radio Stream Using PHP
+# Radio stream backend
+A REST API for a Radio Stream Using PHP
 
